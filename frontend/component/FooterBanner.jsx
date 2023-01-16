@@ -1,8 +1,13 @@
 import React from 'react'
+import Link from 'next/link';
 
-function FooterBanner() {
+import { urlFor } from '../lib/client';
+
+function FooterBanner({ FooterBanner }) {
   return (
-    <div>FooterBanner</div>
+    <div>
+
+    </div>
   )
 }
 
