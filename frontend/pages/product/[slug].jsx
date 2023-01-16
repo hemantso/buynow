@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { AiOutlineMinus, AiOutlinePlus, AiFillStar, AiOutlineStar } from 'react-icons/ai';
 
 import { client, urlFor } from '../../lib/client';
-import { Product } from '../../components';
+import { Product } from '../../component';
 import { useStateContext } from '../../context/StateContext';
 
 const ProductDetails = ({ product, products }) => {
@@ -109,8 +109,6 @@ export const getStaticProps = async ({ params: { slug }}) => {
   
   const product = await client.fetch(query);
   const products = await client.fetch(productsQuery);
-
-  console.log(product);
 
   return {
     props: { products, product }
