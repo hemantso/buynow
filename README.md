@@ -15,7 +15,7 @@
   <h3 align="center">Buy Now</h3>
 
   <p align="center">
-    BUY Now is a shopping web application. Built using Next.js and content of application managed by the sanity (content managment system). For making payment integrated Stripe payment system in the project.
+    Buy Now is a shopping web application. Built using Next.js and content of application managed by the sanity (content managment system). For making payment integrated Stripe payment system in the project.
     <br />
     <a href="https://github.com/hemantso/buynow"><strong>Explore the docs »</strong></a>
     <br />
@@ -44,7 +44,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-BUY Now is a shopping web application. Built using Next.js and content of application managed by the [Sanity](https://www.sanity.io/) (content managment system). For making payment integrated Stripe payment system in the project.
+Buy Now is a shopping web application. Built using Next.js and content of application managed by the [Sanity](https://www.sanity.io/) (content management system). For making payment, integrated the Stripe payment system in the project.
 
 # Home Page
 ![image](./public/assets/home.png)
