@@ -7,7 +7,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -44,7 +43,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Buy Now is a shopping web application. Built using Next.js and content of application managed by the [Sanity](https://www.sanity.io/) (content management system). For making payment, integrated the Stripe payment system in the project.
+Buy Now is a shopping web application. Built using Next.js and content of application managed by the [Sanity](https://www.sanity.io/) (content management system). For checkout and making payment, integrated the Stripe payment system in the project.
 
 # Home Page
 ![image](./public/assets/home.png)
